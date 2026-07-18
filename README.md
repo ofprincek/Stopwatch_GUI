@@ -1,2 +1,3 @@
-# Stopwatch_GUI
-wrote code for a stopwatch in python, so decided to make it into a full exe.
+# Stopwatch
+made a stopwatch, implemented threading to display realtime updates while accepting for pause/stop inputs. available in .exe; <br>
+will add gui in future too using customtkinter. 
